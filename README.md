@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Sou o Gabriel!
+Atualmente estou me graduando em Engenharia Mecânica pelo Instituto Federal do Ceará, e também estudo desenvolvimento full stack. Desejo aprender bastante dentro da comunidade e compartilhar minhas experiências.
 
-<!--
-**GabrielUechi/GabrielUechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/GabrielUechi"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:inline-block"><br>
+ <img align="center" height:"30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+ <img align="center" height:"30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+ <img align="center" height:"30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
+ <img align="center" height:"30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
+ <img align="center" height:"30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"/>
+</div>
