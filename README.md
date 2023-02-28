@@ -1,4 +1,4 @@
-### Olá! Sou o Gabriel!
+### Olá! Sou o Gabriel! ✌
 Atualmente estou me graduando em Engenharia Mecânica pelo Instituto Federal do Ceará, e também estudo desenvolvimento full stack. Desejo aprender bastante dentro da comunidade e compartilhar minhas experiências.
 
 <div>
