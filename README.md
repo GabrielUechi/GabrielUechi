@@ -1,5 +1,5 @@
 ### Olá! Sou o Gabriel! ✌
-Atualmente estou me graduando em Engenharia Mecânica pelo Instituto Federal do Ceará, e também estudo desenvolvimento full stack. Desejo aprender bastante dentro da comunidade e compartilhar minhas experiências.
+Atualmente estou me graduando em Engenharia Mecânica pelo Instituto Federal do Ceará.
 
 <div>
   <a href="https://github.com/GabrielUechi"/>
